@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Door1
+  - Door2
+  - Unlock1
+  - Unlock2
+  - teleport
+  - Barrier
+  - PuzzleStart
+  - PuzzleHint
   layers:
   - Default
   - TransparentFX
